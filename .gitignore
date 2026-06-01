@@ -1,0 +1,9 @@
+venv/
+dataset/
+data/
+runs/
+outputs/
+models/
+*.pt
+__pycache__/
+.DS_Store

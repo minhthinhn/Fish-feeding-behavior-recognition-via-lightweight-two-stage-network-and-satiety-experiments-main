@@ -1,0 +1,12 @@
+ultralytics
+opencv-python
+numpy
+pandas
+scikit-image
+scikit-learn
+lightgbm
+matplotlib
+seaborn
+deep-sort-realtime
+pyyaml
+tqdm
