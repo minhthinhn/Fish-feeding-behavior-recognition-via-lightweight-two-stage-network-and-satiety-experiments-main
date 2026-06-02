@@ -7,7 +7,7 @@ model.train(
     epochs=100,
     imgsz=640,
     batch=8,
-    device="mps",
+    device=0,
     workers=0,
     patience=30
 )
